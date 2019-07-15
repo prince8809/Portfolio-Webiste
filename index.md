@@ -50,6 +50,27 @@ end
 - `5 Star` In Problem Solving and CPP at Hackerrank Secured 5 Star rating in on Hackerrank along with 92.65 percentile.
 - `Rank 9` in HONCODE Challenge on TechGig Secured Rank 9 among more than 2500 participants from all over the world.
 
+# PERSONAL PROJECTS 
+
+## CryptoCurrency Mining Advertisement Limiter
+
+* `A Google-Chrome extension plugin which reduces advertisements for a user if he/ she agrees to lend his idle CPU for Crypto Currency Mining and provide an alternate revenue source to website owners.`
+* `Used Coinhive JavaScript miner for Monero(XMR) Mining.`
+
+## Artiﬁcial Intelligence based Tic-Tac-Toe game
+* An Unbeatable Tic Tac Toe Android Application. 
+* The AI player is based on Minimax Algorithm which either results in either a draw or a win for the AI. 
+* Used Android Studio for development, Graphics Built using Canva.
+
+## Interactive-Google-Assistant-Resume 
+* Used DialogFlow to build a Google Action for the Google Assistant. * Used custom intents to give realistic interactions using Browser Carousel Cards, Images, Fallback intents. 
+* Used custom intents to give realistic interactions using Browser Carousel Cards, Images, Fallback intents.
+
+## Amazon Alexa Skill:-"Aqua Energy" 
+* This skill guides you with all the mysteries that lie deep inside water. 
+* This was being made using -AWS(Lambda Function), Node.js and JSON.
+
+
 # CERTIFICATES 
 
 ```js
