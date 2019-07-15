@@ -9,7 +9,7 @@ The thing which keeps me going is the desire to work on new technologies and bui
 
 * * *
 
-## EDUCATION
+# EDUCATION
 
 ```js
 07/2016 – Present
@@ -32,15 +32,16 @@ The thing which keeps me going is the desire to work on new technologies and bui
   - 88.60%
   - ICSE
 
-## SKILLS
+# SKILLS
 
 ```ruby
-C++ Java Data Structures Problem Solving
-DialogFlow Android Python Git
-AWS Alexa Skills Kit MongoDB
+return 'C++' + 'Java' + 'Data Structures' + 'Problem Solving' +
+'DialogFlow' + 'Android' + 'Python' + 'Git'
+'AWS' + 'Alexa Skills Kit' + 'MongoDB' ;
+end
 ```
 
-## ACHIEVEMENTS 
+# ACHIEVEMENTS 
 
 - Won the Osmosis Techie of the Year 2019 Secured a position in top 3, after a 16 Hour long competitive coding contest followed by a 10 Hour long Appathon among 2000+participants organised by Mindtree.
 - Selected for the ICPC Asia Amritapuri Onsite Regional Contest Selected for 2018 ICPC Asia Amritapuri Doublesite Regional Contest,Honourable Mention.
@@ -49,12 +50,13 @@ AWS Alexa Skills Kit MongoDB
 - 5 Star In Problem Solving and CPP at Hackerrank Secured 5 Star rating in on Hackerrank along with 92.65 percentile.
 - Rank 9 in HONCODE Challenge on TechGig Secured Rank 9 among more than 2500 participants from all over the world.
 
-## CERTIFICATES 
+# CERTIFICATES 
 
 ```js
-return Certiﬁed in Programming in C++ by NPTEL ;
-return Certiﬁed in Programming Data Structures and Algorithms using Python by NPTEL ;
-return COMP102.1x: Introduction to Java Programming by HKUSTx on edX ;
+return 'Certiﬁed in Programming in C++ by NPTEL' ;
+return 'Certiﬁed in Programming Data Structures and Algorithms using Python by NPTEL' ;
+return 'COMP102.1x: Introduction to Java Programming by HKUSTx on edX' ;
+return true;
 ```
 ## LANGUAGES
 
