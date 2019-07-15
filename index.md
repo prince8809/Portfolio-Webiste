@@ -3,8 +3,10 @@ layout: default
 ---
 
 3rd year B.E. Computer Science and Engineering undergraduate.
-
+* * *
 The thing which keeps me going is the desire to work on new technologies and build something which'll be used by billions of users and makes a diﬀerence for them.
+
+* * *
 
 EDUCATION
 
