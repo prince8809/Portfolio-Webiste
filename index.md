@@ -6,7 +6,7 @@ layout: default
 
 * * *
 ```js
-The thing which keeps me going is desire to work on new technologies + building something which'll be used by billions of users and makes a diﬀerence for them.
+`The` thing which keeps me going is desire to work on new `technologies` + building something which will be used by 'billions' of users and makes a `diﬀerence` for them ;
 ```
 * * *
 
