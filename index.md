@@ -12,16 +12,20 @@ The thing which keeps me going is the desire to work on new technologies and bui
 ## EDUCATION
 
 07/2016 – Present
+
 - Bachelors of Engineering Chandigarh University, Mohali
  - 8.64 CGPA
 - Computer Science and Engineering.
+
 03/2014 – 03/2016
+
 - 10+2th Children Sr. Sec. School,Kota
  - 85.20%
+
 03/2007 – 03/2014
+
 - 10th Himalayan English School, Siliguri
  - 88.60%
-
 ## SKILLS
 
 ```ruby
@@ -48,10 +52,14 @@ COMP102.1x: Introduction to Java Programming by HKUSTx on edX.
 ```
 ## LANGUAGES
 
-English Full Professional Proﬁciency
-Hindi Full Professional Proﬁciency
-Bengali Limited Working Proﬁciency
-Punjabi Limited Working Proﬁciency
+- English
+ - Full Professional Proﬁciency
+- Hindi
+ - Full Professional Proﬁciency
+- Bengali
+ - Limited Working Proﬁciency
+- Punjabi
+ - Limited Working Proﬁciency
 
 ## INTERESTS
 
