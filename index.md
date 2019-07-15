@@ -11,21 +11,25 @@ The thing which keeps me going is the desire to work on new technologies and bui
 
 ## EDUCATION
 
+```js
 07/2016 – Present
-
+```
 - Bachelors of Engineering Chandigarh University, Mohali
  - 8.64 CGPA
 - Computer Science and Engineering.
-
+```js
 03/2014 – 03/2016
-
+```
 - 10+2th Children Sr. Sec. School,Kota
  - 85.20%
-
+ - CBSE
+```js
 03/2007 – 03/2014
-
+```
 - 10th Himalayan English School, Siliguri
  - 88.60%
+ - ICSE
+
 ## SKILLS
 
 ```ruby
@@ -63,10 +67,10 @@ COMP102.1x: Introduction to Java Programming by HKUSTx on edX.
 
 ## INTERESTS
 
->Public Speaking
->Travelling 
->Trekking 
->Guitar
+* Public Speaking
+* Travelling 
+* Trekking 
+* Guitar
 
 
 
