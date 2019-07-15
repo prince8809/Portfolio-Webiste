@@ -14,21 +14,23 @@ The thing which keeps me going is the desire to work on new technologies and bui
 ```js
 07/2016 – Present
 ```
-- Bachelors of Engineering Chandigarh University, Mohali
- - 8.64 CGPA
-- Computer Science and Engineering.
+- Bachelors of Engineering Chandigarh University, Mohali.
+  - 8.64 CGPA
+  - Computer Science and Engineering.
+
 ```js
 03/2014 – 03/2016
 ```
 - 10+2th Children Sr. Sec. School,Kota
- - 85.20%
- - CBSE
+  - 85.20%
+  - CBSE
+
 ```js
 03/2007 – 03/2014
 ```
 - 10th Himalayan English School, Siliguri
- - 88.60%
- - ICSE
+  - 88.60%
+  - ICSE
 
 ## SKILLS
 
@@ -57,13 +59,13 @@ COMP102.1x: Introduction to Java Programming by HKUSTx on edX.
 ## LANGUAGES
 
 - English
- - Full Professional Proﬁciency
+  - Full Professional Proﬁciency
 - Hindi
- - Full Professional Proﬁciency
+  - Full Professional Proﬁciency
 - Bengali
- - Limited Working Proﬁciency
+  - Limited Working Proﬁciency
 - Punjabi
- - Limited Working Proﬁciency
+  - Limited Working Proﬁciency
 
 ## INTERESTS
 
