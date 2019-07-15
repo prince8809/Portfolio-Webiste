@@ -5,8 +5,8 @@ layout: default
 3rd year B.E. Computer Science and Engineering undergraduate.
 
 * * *
-```ruby
-The thing which keeps me going is the desire to work on new technologies and build something which'll be used by billions of users and makes a diﬀerence for them.
+```js
+The thing which keeps me going is desire to work on new technologies + building something which'll be used by billions of users and makes a diﬀerence for them.
 ```
 * * *
 
@@ -112,7 +112,7 @@ return true;
 
 * * *
 
-
+<!--
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
@@ -233,3 +233,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+-->
