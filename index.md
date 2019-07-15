@@ -52,9 +52,9 @@ AWS Alexa Skills Kit MongoDB
 ## CERTIFICATES 
 
 ```js
-Certiﬁed in Programming in C++ by NPTEL Certiﬁed in Programming
-Data Structures and Algorithms using Python by NPTEL
-COMP102.1x: Introduction to Java Programming by HKUSTx on edX.
+return Certiﬁed in Programming in C++ by NPTEL ;
+return Certiﬁed in Programming Data Structures and Algorithms using Python by NPTEL ;
+return COMP102.1x: Introduction to Java Programming by HKUSTx on edX ;
 ```
 ## LANGUAGES
 
