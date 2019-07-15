@@ -70,7 +70,7 @@ end
 * `Used Android Studio for development, Graphics Built using Canva.`
 
 ### Interactive-Google-Assistant-Resume 
-* `Used DialogFlow to build a Google Action for the Google Assistant.`* `Used custom intents to give realistic interactions using Browser Carousel Cards, Images, Fallback intents.` 
+* `Used DialogFlow to build a Google Action for the Google Assistant.`* `Used custom intents to give realistic interactions using Browser Carousel Cards, Images, Fallback intents.`
 * `Used custom intents to give realistic interactions using Browser Carousel Cards, Images, Fallback intents.`
 
 ### Amazon Alexa Skill:-"Aqua Energy" 
