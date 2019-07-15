@@ -5,11 +5,12 @@ layout: default
 3rd year B.E. Computer Science and Engineering undergraduate.
 
 * * *
+```ruby
 The thing which keeps me going is the desire to work on new technologies and build something which'll be used by billions of users and makes a diﬀerence for them.
-
+```
 * * *
 
-# EDUCATION
+## EDUCATION
 
 ```js
 07/2016 – Present
@@ -32,7 +33,9 @@ The thing which keeps me going is the desire to work on new technologies and bui
   - 88.60%
   - ICSE
 
-# SKILLS
+* * *
+
+## SKILLS
 
 ```ruby
 return 'C++' + 'Java' + 'Data Structures' + 'Problem Solving' +
@@ -41,7 +44,9 @@ return 'C++' + 'Java' + 'Data Structures' + 'Problem Solving' +
 end
 ```
 
-# ACHIEVEMENTS 
+* * *
+
+## ACHIEVEMENTS 
 
 - Won the Osmosis Techie of the Year 2019 Secured a `winning` position, after a 16 Hour long competitive coding contest followed by a 10 Hour long Appathon among 2000+participants organised by Mindtree.
 - Selected for the ICPC Asia Amritapuri Onsite Regional Contest Selected for `2018` ICPC Asia Amritapuri Doublesite Regional Contest,Honourable Mention.
@@ -50,28 +55,31 @@ end
 - `5 Star` In Problem Solving and CPP at Hackerrank Secured 5 Star rating in on Hackerrank along with 92.65 percentile.
 - `Rank 9` in HONCODE Challenge on TechGig Secured Rank 9 among more than 2500 participants from all over the world.
 
-# PERSONAL PROJECTS 
+* * *
 
-## CryptoCurrency Mining Advertisement Limiter
+## PERSONAL PROJECTS 
+
+### CryptoCurrency Mining Advertisement Limiter
 
 * `A Google-Chrome extension plugin which reduces advertisements for a user if he/ she agrees to lend his idle CPU for Crypto Currency Mining and provide an alternate revenue source to website owners.`
 * `Used Coinhive JavaScript miner for Monero(XMR) Mining.`
 
-## Artiﬁcial Intelligence based Tic-Tac-Toe game
-* An Unbeatable Tic Tac Toe Android Application. 
-* The AI player is based on Minimax Algorithm which either results in either a draw or a win for the AI. 
-* Used Android Studio for development, Graphics Built using Canva.
+### Artiﬁcial Intelligence based Tic-Tac-Toe game
+* `An Unbeatable Tic Tac Toe Android Application.` 
+* `The AI player is based on Minimax Algorithm which either results in either a draw or a win for the AI.` 
+* `Used Android Studio for development, Graphics Built using Canva.`
 
-## Interactive-Google-Assistant-Resume 
-* Used DialogFlow to build a Google Action for the Google Assistant. * Used custom intents to give realistic interactions using Browser Carousel Cards, Images, Fallback intents. 
-* Used custom intents to give realistic interactions using Browser Carousel Cards, Images, Fallback intents.
+### Interactive-Google-Assistant-Resume 
+* `Used DialogFlow to build a Google Action for the Google Assistant.`* `Used custom intents to give realistic interactions using Browser Carousel Cards, Images, Fallback intents.` 
+* `Used custom intents to give realistic interactions using Browser Carousel Cards, Images, Fallback intents.`
 
-## Amazon Alexa Skill:-"Aqua Energy" 
-* This skill guides you with all the mysteries that lie deep inside water. 
-* This was being made using -AWS(Lambda Function), Node.js and JSON.
+### Amazon Alexa Skill:-"Aqua Energy" 
+* `This skill guides you with all the mysteries that lie deep inside water.` 
+* `This was being made using -AWS(Lambda Function), Node.js and JSON.`
 
+* * *
 
-# CERTIFICATES 
+## CERTIFICATES 
 
 ```js
 return 'Certiﬁed in Programming in C++ by NPTEL' ;
@@ -79,6 +87,9 @@ return 'Certiﬁed in Programming Data Structures and Algorithms using Python by
 return 'COMP102.1x: Introduction to Java Programming by HKUSTx on edX' ;
 return true;
 ```
+
+* * *
+
 ## LANGUAGES
 
 - `English`
@@ -90,6 +101,8 @@ return true;
 - `Punjabi`
   - Limited Working Proﬁciency
 
+* * *  
+
 ## INTERESTS
 
 * Public Speaking
@@ -97,7 +110,7 @@ return true;
 * Trekking 
 * Guitar
 
-
+* * *
 
 
 
