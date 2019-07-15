@@ -2,6 +2,63 @@
 layout: default
 ---
 
+3rd year B.E. Computer Science and Engineering undergraduate.
+
+The thing which keeps me going is the desire to work on new technologies and build something which'll be used by billions of users and makes a diﬀerence for them.
+
+EDUCATION
+
+07/2016 – Present
+Bachelors of Engineering Chandigarh University, Mohali
+8.64 CGPA
+Computer Science and Engineering.
+03/2014 – 03/2016
+10+2th Children Sr. Sec. School,Kota
+85.20%
+03/2007 – 03/2014
+10th Himalayan English School, Siliguri
+88.60%
+
+SKILLS
+
+C++ Java Data Structures Problem Solving
+DialogFlow Android Python Git
+AWS Alexa Skills Kit MongoDB
+
+##ACHIEVEMENTS 
+
+>Won the Osmosis Techie of the Year 2019 Secured a position in top 3, after a 16 Hour long competitive coding contest followed by a 10 Hour long Appathon among 2000+participants organised by Mindtree.
+>Selected for the ICPC Asia Amritapuri Onsite Regional Contest Selected for 2018 ICPC Asia Amritapuri Doublesite Regional Contest,Honourable Mention.
+>Rank 1 World Wide In CodeChef Long Challenge Secured Rank 1 Worldwide in Codechef October 2018 Long Challenge Division-2 among more than 15000+ participants from all over the world. 
+>Ranked 1 in Code-Tantra in Chandigarh University Secured Rank 1 in a 6 Hour long competitive coding contest among 400+participants.
+>5 Star In Problem Solving and CPP at Hackerrank Secured 5 Star rating in on Hackerrank along with 92.65 percentile.
+>Rank 9 in HONCODE Challenge on TechGig Secured Rank 9 among more than 2500 participants from all over the world.
+
+##CERTIFICATES 
+
+```js
+Certiﬁed in Programming in C++ by NPTEL Certiﬁed in Programming
+Data Structures and Algorithms using Python by NPTEL
+COMP102.1x: Introduction to Java Programming by HKUSTx on edX.
+```
+###LANGUAGES
+
+English Full Professional Proﬁciency
+Hindi Full Professional Proﬁciency
+Bengali Limited Working Proﬁciency
+Punjabi Limited Working Proﬁciency
+
+##INTERESTS
+
+>Public Speaking
+>Travelling 
+>Trekking 
+>Guitar
+
+
+
+
+
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another-page.html).
