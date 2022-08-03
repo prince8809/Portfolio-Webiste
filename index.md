@@ -2,25 +2,22 @@
 layout: default
 ---
 
-3rd year B.E. Computer Science and Engineering undergraduate.
+## Look Around And Get LOST
 
 * * *
 ```js
 `The` thing which keeps me going is desire to work on new `technologies` + building something which will be used by 'billions' of users and makes a `diﬀerence` for them ;
 ```
 * * *
-
+<!--
 ## EDUCATION
 
 ```js
-07/2016 – Present
+2016-2020
 ```
-- Bachelors of Engineering Chandigarh University, Mohali.
-  - 8.64 CGPA
-  - Computer Science and Engineering.
-
+- Bachelors of Engineering ( CSE , Chandigarh University )
 ```js
-03/2014 – 03/2016
+2014-2016
 ```
 - 10+2th Children Sr. Sec. School,Kota
   - 85.20%
@@ -45,9 +42,11 @@ end
 ```
 
 * * *
-
+-->
 ## ACHIEVEMENTS 
+- You Can Look Me up on Google
 
+<!--
 - Won the Osmosis Techie of the Year 2019 Secured a `winning` position, after a 16 Hour long competitive coding contest followed by a 10 Hour long Appathon among 2000+participants organised by Mindtree.
 - Selected for the ICPC Asia Amritapuri Onsite Regional Contest Selected for `2018` ICPC Asia Amritapuri Doublesite Regional Contest,Honourable Mention.
 - `Rank 1` World Wide In CodeChef Long Challenge Secured Rank 1 Worldwide in Codechef October 2018 Long Challenge Division-2 among more than 15000+ participants from all over the world. 
@@ -102,13 +101,12 @@ return true;
   - Limited Working Proﬁciency
 
 * * *  
-
+-->
 ## INTERESTS
 
 * Public Speaking
 * Travelling 
-* Trekking 
-* Guitar
+* Flying 
 
 * * *
 
