@@ -2,11 +2,15 @@
 layout: default
 ---
 
-## Look Around And Get LOST
+## Try to touch the past. Try to deal with the past. It's not real. It's just a dream
 
+#  [TRAVEL](https://www.thetravelbomber.com)
+#  [AI](https://beacons.ai/thetravelbomber)
+#  [QUORA](https://www.quora.com/profile/Prince-Siwal-4)
+#  [Its Always a plan](https://linktr.ee/thetravelbomber)
 * * *
 ```js
-`The` thing which keeps me going is desire to work on new `technologies` + building something which will be used by 'billions' of users and makes a `diﬀerence` for them ;
+`The` thing which keeps me going is the desire to live my life to the `best` + helping to create something which will be used by 'billions' of users and make a `diﬀerence` for them ;
 ```
 * * *
 <!--
@@ -102,11 +106,11 @@ return true;
 
 * * *  
 -->
+* * *
+
 ## INTERESTS
 
-* Public Speaking
-* Travelling 
-* Flying 
+- Flying , Dreaming
 
 * * *
 
